@@ -9,6 +9,7 @@ public class Main {
 		//"da li vidis ovo"
 		//"da li vidis ovo"
 		//"da li vidis ovo"
+		int x=0;
 	}
 
 }
